@@ -1,0 +1,19 @@
+Passo a passo  do Spring Boot
+
+Criar uma API RestFull para controle de produtos
+
+1- Passo -> Criar um modelo:
+
+Produto = id, nome, quantidade, valor, descrição
+
+
+2- Passo -> Criar um Repositório
+ obterTodos -> metodo para retornar produtos
+ obterPorId -> metodo para retornar produto pelo id
+ addProduto -> metodo para adicionar um produto com id com auto-incremento
+deletar -> metodo para deletar um produto
+atualizar -> metodo para atualizar um produto 
+
+
+3- Passo -> Criar os Serviços
+obterTodos, obterPorId, addProduto, deletar, atualizar

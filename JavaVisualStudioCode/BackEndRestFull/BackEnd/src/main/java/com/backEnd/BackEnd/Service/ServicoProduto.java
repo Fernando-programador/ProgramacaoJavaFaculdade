@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 import com.backEnd.BackEnd.Atributos.Produto;
 import com.backEnd.BackEnd.Repository.RepositoryProduto;
-import com.backEnd.BackEnd.Repository.RepositoryProduto;
 
 @Service
 public class ServicoProduto {
