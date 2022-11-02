@@ -1,5 +1,5 @@
 
-package Arrays;
+package ProgramacaoI.Array;
 
 
 public class metodosArray {

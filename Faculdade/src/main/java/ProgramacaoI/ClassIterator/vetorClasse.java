@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Arrays.classIterator;
+package ProgramacaoI.ClassIterator;
 
-import Arrays.classIterator.Monitor;
+import ProgramacaoI.ClassIterator.Monitor;
 import java.util.Scanner;
 
 /**

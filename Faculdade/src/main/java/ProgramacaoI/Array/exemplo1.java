@@ -1,5 +1,5 @@
 
-package Arrays;
+package ProgramacaoI.Array;
 
 
 import java.util.ArrayList;

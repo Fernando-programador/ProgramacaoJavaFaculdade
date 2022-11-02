@@ -1,4 +1,8 @@
-package Arrays;
+package ProgramacaoI.Array;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Scanner;
 
 
 
@@ -16,7 +20,7 @@ public class appIterator {
         String antigo, novo;
         int i, indice;
 
-        ArrayList<String> array = new ArrayList<String>();
+        ArrayList<String> array = new ArrayList<>();
 
         for (i = 0; i < 5; i++) {
             System.out.println("Digite o nome do " + (i + 1) + "º integrante");
@@ -40,7 +44,7 @@ public class appIterator {
 
         System.out.println("retirada de um elemento do grupo: ");
 
-       Iterator<String> iterator = array.iterator();
+        Iterator<String> iterator = array.iterator();
      //   appIterator<String> iterator = array.iterator();
       
 
